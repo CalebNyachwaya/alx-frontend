@@ -23,3 +23,7 @@ _This section covers various devtools concepts and practical tasks. The goal of 
       <br>
 - [x] [12-print_version](./12-print_version.png) - screenshot of homepage print version
       <br>
+- [x] [12-print_version](./13-logo_dollar0) - screenshot of homepage print version
+      <br>
+- [x] [14-doc_title](./14-doc_title) - shows page title
+      <br>
