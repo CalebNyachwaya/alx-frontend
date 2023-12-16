@@ -27,3 +27,23 @@ _This section covers various devtools concepts and practical tasks. The goal of 
       <br>
 - [x] [14-doc_title](./14-doc_title) - shows page title
       <br>
+- [x] [14-doc_title](./14-doc_title) - shows page title
+      <br>
+- [x] [16-weight](./16-weight.png) - shows total weight of the homepage
+      <br>
+- [x] [17-requests](./17-requests.png) - shows number of requests done when accessing
+      <br>
+- [x] [18-css_loaded](./18-css_loaded) - show number of css resources in the homepage
+      <br>
+- [x] [18-css_loaded](./18-css_loaded) - show number of css resources in the homepage
+      <br>
+- [x] [18-css_loaded](./18-css_loaded) - show number of css resources in the homepage
+      <br>
+- [x] [18-css_loaded](./18-css_loaded) - show number of css resources in the homepage
+      <br>
+- [x] [18-css_loaded](./18-css_loaded) - show number of css resources in the homepage
+      <br>
+- [x] [23-performance_audit](./23-performance_audit.png) - shows homepage performance report
+      <br>
+- [x] [24-static_assets_audit](./24-static_assets_audit.png) - shows static assets that need a better cache policy
+      <br>
