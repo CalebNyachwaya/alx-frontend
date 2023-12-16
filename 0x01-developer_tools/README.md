@@ -13,5 +13,5 @@ _This section covers various devtools concepts and practical tasks. The goal of 
 
 ### Tasks
 
-- [x] [0-responsive_device](/0x01-developer_tools/0-responsive_device.png): screenshot of webssite using iPhone X
+- [x] [0-responsive_device](0-responsive_device.png) - screenshot of webssite using iPhone X
       <br>
