@@ -11,7 +11,7 @@ _This section covers various concepts and practical tasks related to developer t
 - block requests
   <br><br>
 
-<h2 align="center">Tasks 📋</h2>
+<h2 align="center">Tasks</h2>
 
 **Review Website: [https://dev-tools.alx-tools.com/](https://dev-tools.alx-tools.com/)**
 
