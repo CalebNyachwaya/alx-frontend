@@ -289,6 +289,12 @@ a:active {
   margin-right: auto;
 }
 
+[data-section-theme="dark"] {
+  --text-color: var(--color-white);
+  --section-title-color: var(--color-white);
+  background-color: var(--color-black);
+}
+
 .footer {
   padding: var(--footer-padding);
 }
@@ -356,10 +362,4 @@ ul.row {
   content: "";
   display: table;
   clear: both;
-}
-
-[data-section-theme="“dark”"] {
-  --text-color: var(--color-white);
-  --section-title-color: var(--color-white);
-  background: var(--color-black);
 }
