@@ -420,7 +420,6 @@ ul.row {
 }
 
 .card-testimonial {
-  border: green solid 2px;
   text-align: center;
 }
 
@@ -432,6 +431,6 @@ ul.row {
 
 .card-testimonial .card-quote cite {
   display: block;
-  padding: 0 0 1rem 0;
+  padding: 1rem 0 0 0;
   color: var(--color-primary);
 }
