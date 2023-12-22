@@ -222,7 +222,7 @@ html {
   --header-logo-link-top: -1rem;
   --header-logo-link-left: 0;
 
-  --transition-duration: 0.3s;
+  --transition-duration: 10s;
   --transition-cubic-bezier: cubic-bezier(0.17, 0.67, 0, 1.01);
 }
 
@@ -272,10 +272,10 @@ a:active {
 
 .button:hover {
   color: var(--button-hover-color);
-  text-decoration: var(--button-hover-text-decoration);
+  text-decoration: line-through;
   background-color: var(--button-hover-background);
-  transition: --transition-duration;
-  transition-property: color, background-color;
+  transition: var(--transition-duration);
+  transition-property: color, background;
 }
 
 .visually-hidden {
