@@ -654,7 +654,6 @@ ul.row {
 
 @media (max-width: 767px) {
   .section-hero {
-    border: red 2px solid;
     margin: -0.1rem 0;
   }
   .hero-homepage {
@@ -1193,7 +1192,6 @@ textarea:valid:not(:placeholder-shown) {
   }
 
   .header-container {
-    border: red, solid 2px;
     flex-wrap: wrap;
     padding: 0 1.5rem;
   }
